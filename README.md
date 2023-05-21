@@ -1,2 +1,2 @@
-# ads
-Projektarbeit im Modul Applied Data Science
+# Projektarbeit Applied Data Science
+In dieser Projektarbeit werden Daten aus der Premier League eingehend analysiert, um einen robusten Klassifikator zu entwickeln, der in der Lage ist, den Ausgang von Spielen genau vorherzusagen. Der Datensatz enthielt umfassende Informationen zu verschiedenen Spielvariablen, darunter Spielort, Spieltag und -zeit, Schiedsrichter und andere relevante Faktoren. Der Klassifikator wurde mit Hilfe eines maschinellen Lernansatzes trainiert, gefolgt von einer Evaluierungsphase mit ungesehenen Daten, um die Generalisierungsleistung des Modells zu bewerten. Darüber hinaus wurde in der Studie versucht, die einflussreichsten Merkmale zu identifizieren, die den Entscheidungsprozess des Klassifikators leiteten.
